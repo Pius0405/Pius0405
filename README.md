@@ -1,5 +1,5 @@
 # 💫 About Me
-🖥️ Computer science Student <br/><br>🏫 Studied computer science at The University of YouTube <br/><br>🔨 Currently learning ML 🤖 frameworks and cloud technologies ☁️ <br/>
+🖥️ Computer science Student <br/><br>🏫 Studying computer science at The University of YouTube ▶️<br/><br>🔨 Currently learning ML 🤖 frameworks and cloud technologies ☁️ <br/>
 
 
 # 💻 Tech Stack
