@@ -1,5 +1,5 @@
 # 💫 About Me
-🤗 Hi, I am Pius! <br/><br> 🖥️ Computer science Student <br/><br>🏫 Studying computer science at The University of YouTube ▶️<br/><br>🔨 Currently learning ML 🤖 frameworks and cloud technologies ☁️ <br/>
+🤗 Hi, I am Pius! <br/><br> 
 
 
 # 💻 Tech Stack
