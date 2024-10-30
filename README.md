@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I am Pius, currently a first year computer science student at<br>the University of Nottingham Malaysia.<br>I am currently learning machine learning.
+Hi, I am Pius, currently a first year computer science student at the University of Nottingham Malaysia.<br>
 
 
 # 💻 Tech Stack:
