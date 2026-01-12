@@ -9,8 +9,7 @@ Hi, I am Pius. I am a second year computer science student at University of Nott
 ![](https://nirzak-streak-stats.vercel.app/?user=Pius0405&theme=neon&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pius0405&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-# 🏆 Featured Projects</h2>
-
+# 🏆 Featured Projects:
 <h3>🤖 Employee Onboarding Chatbot (RAG-based)</h3>
 <blockquote>
   <strong>Use Case:</strong> AI-Powered Employee Onboarding & HR Assistance<br/><br/>
