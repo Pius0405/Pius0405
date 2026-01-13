@@ -10,7 +10,7 @@ Hi, I am Pius. I am a second year computer science student at University of Nott
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pius0405&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 # 🏆 Featured Projects:
-<h3>🤖 Employee Onboarding Chatbot (RAG-based)</h3>
+<h3>🤖 Employee Onboarding Chatbot (Still working on it to make it better)</h3>
 <blockquote>
   <strong>Use Case:</strong> AI-Powered Employee Onboarding & HR Assistance<br/><br/>
   An intelligent onboarding chatbot designed to help new employees understand company policies, procedures, and internal documentation. The system uses Retrieval-Augmented Generation (RAG) to ensure responses are strictly grounded in company documents, improving accuracy and trustworthiness.<br/><br/>
