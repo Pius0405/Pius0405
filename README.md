@@ -9,17 +9,6 @@ Hi, I am Pius. I am a second year computer science student at University of Nott
 ![](https://nirzak-streak-stats.vercel.app/?user=Pius0405&theme=neon&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pius0405&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-# 🏆 Featured Projects:
-<h3>🤖 Employee Onboarding Chatbot (Still working on it to make it better)</h3>
-<blockquote>
-  <strong>Use Case:</strong> AI-Powered Employee Onboarding & HR Assistance<br/><br/>
-  An intelligent onboarding chatbot designed to help new employees understand company policies, procedures, and internal documentation. The system uses Retrieval-Augmented Generation (RAG) to ensure responses are strictly grounded in company documents, improving accuracy and trustworthiness.<br/><br/>
-  🎯 <strong>Impact:</strong> Streamlined employee onboarding and reduced HR query load.<br/>
-  ⚙️ <strong>Stack:</strong> LangChain, Chroma, OpenAI / Groq, Streamlit, Sentence Transformers<br/><br/>
-  <a href="https://github.com/Pius0405/EmployeeOnboardingChatbot">
-    <img src="https://img.shields.io/badge/View_Repository-2E8B57?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</blockquote>
 
 
 ---
